@@ -1,0 +1,5 @@
+1. Apa itu Manajemen risiko proyek dan jelaskan salah satu metode manajemen risiko proyek yang anda ketahui dan berikan contoh penggunaan metode tersebut.
+2. Bagaimana cara pengembangan tim proyek PL dan siapa saja tim proyek PL?
+3. Apa itu manajemen kualitas perangkat lunak?
+4. Apa itu manajemen konfigurasi proyek perangkat lunak?
+5. Insight dari webinar kuliah lapangan dengan Jakarta Smart City? Aplikasi apa saja yang dikembangkanoleh JCC, tim apa saja yang terdapat pada JCC, Bagaimana cara mereka memastikan PL yang mereka kembangkan akan digunakan oleh masyarakat maupun pemerintah? serta jelaskan insight lainnya yang didapatkan melalui webinar, terkait dengan manajemen proyek maupun SDLC secara luas.
