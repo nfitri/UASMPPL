@@ -10,4 +10,4 @@ terkait dengan manajemen proyek maupun SDLC secara luas.
 2.
 3.
 4. Manajemen konfigurasi proyek perangkat lunak adalah
-5. Jakarta Smart City (JSC) bekerjasama dengan perusahaan lain seperti . Tim yang terdapat pada JSC adalah tim pengembang aplikasi, tim 
+5. Jakarta Smart City (JSC) bekerjasama dengan perusahaan lain seperti Tokopedia, Alterra, Zomato, Gofood, dan lain-lain. Tim yang terdapat pada JSC adalah tim dengan fokus pada teknologi, tim pelaksana teknis, dan tim yang memonitoring pelaksaan. Untuk memastikan perangkat lunak akan digunakan oleh masyarakat adalah dengan memberikan suatu reward pada pengguna masyarakat, sedangkan untuk pemerintah diperlukan pemimpin yang tegas untuk memastikan tercapainya tujuan smart city. 
