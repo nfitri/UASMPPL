@@ -1,13 +1,15 @@
-1. Apa itu Manajemen risiko proyek dan jelaskan salah satu metode manajemen risiko proyek yang anda ketahui dan berikan contoh penggunaan metode tersebut.
-2. Bagaimana cara pengembangan tim proyek PL dan siapa saja tim proyek PL?
-3. Apa itu manajemen kualitas perangkat lunak?
-4. Apa itu manajemen konfigurasi proyek perangkat lunak?
-5. Insight dari webinar kuliah lapangan dengan Jakarta Smart City? Aplikasi apa saja yang dikembangkan oleh JSC, tim apa saja yang terdapat pada JSC, 
-Bagaimana cara mereka memastikan PL yang mereka kembangkan akan digunakan oleh masyarakat maupun pemerintah? serta jelaskan insight lainnya yang didapatkan melalui webinar, 
-terkait dengan manajemen proyek maupun SDLC secara luas.
+a. Apa itu Manajemen risiko proyek dan jelaskan salah satu metode manajemen risiko proyek yang anda ketahui dan berikan contoh penggunaan metode tersebut.
+b. Bagaimana cara pengembangan tim proyek PL dan siapa saja tim proyek PL?
+c. Apa itu manajemen kualitas perangkat lunak?
+d. Apa itu manajemen konfigurasi proyek perangkat lunak?
+e. Insight dari webinar kuliah lapangan dengan Jakarta Smart City? Aplikasi apa saja yang dikembangkan oleh JSC, tim apa saja yang terdapat pada JSC, Bagaimana cara mereka memastikan PL yang mereka kembangkan akan digunakan oleh masyarakat maupun pemerintah? serta jelaskan insight lainnya yang didapatkan melalui webinar, terkait dengan manajemen proyek maupun SDLC secara luas.
 
-1.
-2.
-3.
-4. Manajemen konfigurasi proyek perangkat lunak adalah
-5. Jakarta Smart City (JSC) bekerjasama dengan perusahaan lain seperti Tokopedia, Alterra, Zomato, Gofood, dan lain-lain. Tim yang terdapat pada JSC adalah tim dengan fokus pada teknologi, tim pelaksana teknis, dan tim yang memonitoring pelaksaan. Untuk memastikan perangkat lunak akan digunakan oleh masyarakat adalah dengan memberikan suatu reward pada pengguna masyarakat, sedangkan untuk pemerintah diperlukan pemimpin yang tegas untuk memastikan tercapainya tujuan smart city. 
+a. Manajemen risiko proyek adalah suatu upaya untuk mengantisipasi risiko pada proyek yang dapat memberi dampak pada jadwal proyek atau kualitas dari software yang dibangun serta mengambil tindakan untuk menghindari risiko tersebut. Salah satu metode manajemen risiko adalah metode Risk Breakdown Structure (RBS). RBS membantu mempermudah seluruh pihak yang berkepentingan untuk memahami, mengidentifikasi dan menilai suatu risiko. RBS dapat dianggap sebagai penggambaran yang terorganisir secara hierarki dari risiko proyek yang teridentifikasi yang disusun menurut kategori risiko. RBS juga dapat membantu manajer proyek dan manajer risiko untuk lebih memahami risiko berulang dan konsentrasi risiko yang dapat menyebabkan masalah yang mempengaruhi status proyek. Contoh penggunaan metode RBS pada pengembangan perangkat lunak yaitu level 0 terdapat risiko proyek, level 1 terdapat product engineering, development environment, program constraint.
+
+b. Cara mengembangakan tim proyek perangkat lunak harus memmperhatikan hal-hal seperti ukuran PL hasil proyek, tingkat kesulitan masalah, tingkat modularisasi masalah, kualitas PL yg diharapkan, lama waktu proyek, kecocikan personal, tinggkat keketetatn tenggat waktu, intensitas komunikasi yang dibutuhkan. Satu tahap yang lebih penting adalah memilih pemimpin tim atau manajer proyek yang tepat. Mengelola Tim mungkin cukup menantang bahkan untuk profesional berpengalaman jika mereka tidak memiliki keterampilan manajer. Manajer proyek yang sempurna adalah orang yang dapat mengubah individu menjadi pemain tim dan tahu bagaimana memotivasi. Hanya tim yang baik yang dapat mencapai hasil dan tujuan  proyek secara maksiamal. Dalam proyek pengembangan perangkat lunak diperlukan manajer proyek, analis atau perancang, pemrogram, dan penguji.
+
+c.
+
+d. Manajemen konfigurasi proyek perangkat lunak adalah
+
+e. Jakarta Smart City (JSC) bekerjasama dengan perusahaan lain seperti Tokopedia, Alterra, Zomato, Gofood, dan lain-lain. Tim yang terdapat pada JSC adalah tim dengan fokus pada teknologi, tim pelaksana teknis, dan tim yang memonitoring pelaksaan. Untuk memastikan perangkat lunak akan digunakan oleh masyarakat adalah dengan memberikan suatu reward pada pengguna masyarakat, sedangkan untuk pemerintah diperlukan pemimpin yang tegas untuk memastikan tercapainya tujuan smart city. 
