@@ -60,4 +60,50 @@ Pengembang mengevaluasi
 Laporan perubahan dihasilkan
 Otoritas kontrol perubahan membuat keputusan
 
+Ketika kita membuat perangkat lunak komputer, pasti ada perubahan. Dan karena itu pasti terjadi, kita perlu mengelolanya secara efektif. Manajemen konfigurasi perangkat lunak (SCM), sering disebut juga manajemen perubahan (change management), adalah serangkaian kegiatan yang dirancang untuk mengelola perubahan dengan mengidentifikasi produk/hasil kerja yang kemungkinan besar akan mengalami perubahan, membuat hubungan di antara mereka, menentukan mekanisme untuk mengelola berbagai versi produk kerja tersebut, mengendalikan perubahan yang terjadi, dan mengaudit dan melaporkan perubahan yang dilakukan.
+
+ 
+Siapa yang melakukannya?
+Setiap orang yang terlibat dalam proses pembuatan perangkat lunak terlibat dengan manajemen perubahan ini sampai batas-batas tertentu, tetapi posisi yang bersifat spesialist terkadang dibuat untuk mengelola proses SCM ini.
+Mengapa hal ini penting?
+Jika kita tidak mengendalikan perubahan, mkan perubahan yang akan mengendalikan kita. Dan itu bukan hal yang baik. Perubahan yang tidak terkendali akan sangat mudah membuat menjadikan project sotfware kita menjadi kacau. Akibatnya, kualitas perangkat lunak menjadi buruk dan proses delivery menjadi tertunda. Karena itu, manajemen perubahan (change management) adalah bagian penting dari manajemen mutu.
+Apa saja langkah-langkahnya?
+Karena banyak produk kerja yang dihasilkan ketika perangkat lunak dibuat, maka masing-masing produk/hasil harus diidentifikasi. Setelah itu, mekanisme untuk versi dan kontrol pada perubahan bisa dibuat. Untuk memastikan bahwa kualitas tetap terjaga ketika perubahan dilakukan, maka proses (perubahan) tersebut harus diaudit; dan untuk memastikan bahwa bagi mereka yang perlu tahu harus diberi tahu informasi tentang perubahan tersebut , maka harus dilakukan pelaporan.
+Apa produk kerjanya?
+Rencana dalam Manajemen Konfigurasi Perangkat Lunak menentukan strategi dalam manajemen perubahan. Selain itu, ketika SCM formal dijalankan, proses kontrol terhadap perubahan menghasilkan request perubahan, laporan dan urutan proses engineering.
+Bagaimana kita memastikan bahwa kita telah melakukannya dengan benar?
+
+Ketika masing-masing produk kerja bisa dimonitor, dilacak, dan dikendalikan; ketika setiap perubahan dapat dilacak dan dianalisis; ketika semua orang yang perlu tahu tentang perubahan telah diinformasikan - kita telah melakukannya dengan benar.
+
+Beberapa elemen dari Manajemen Konfigurasi Software (SCM)Software Configuration Management):
+Component elements, sekumpulan dari tool yang dipasarkan dengan manajemen sistem data (seperti database) yang memungkinkan akses ke data tersebut dan melakukan pengaturan terhadap setiap item konfigurasi software.
+Prosess elements, merupakan kumpulan dari prosedur dan tugas yang mendefinisikan pendekatan yang efektif untuk melakukan manajemen perubahan melibatkan semua yang terlibat dalam manajemen.
+Construction elements, kumpulan dari tool-tool yang mengautomasi pembuatan software dengan memastikan validasi komponen yang layak (misalnya, versi yang benar).
+Human elements, untuk mengimplementasikan SCM yang efektif, tim software harus menggunakan sekumpulan feature tool dan proses.
+
+ 
+Elemen-elemen tersebut tidak saling eksklusif. Sebagai contoh, component elements bekerja bersamaan dengan construction elemens ketika proses perangkat lunak berjalan. Process elements memandu banyak aktivitas manusia yang terkait dengan SCM dan karenanya dapat dianggap sebagai human elements juga.
+
+SCM Repository
+
+SCM (Software Configuration Management) repository adalah sekumpulan mekanisme dan struktur data yang mengijinkan tim software untuk mengatur perubahan dalam cara yang effective. SCM repositoty menjalankan fungsi-fungsi berikut:
+Integritas data (data integrity)
+Berbagi inforasi (information sharing)
+Intergrasi tool (tool integration)
+Integrasi data (data integration)
+Penegakan methodologi (methodology enforcement)
+Standardisasi dokumen (document standardization)
+Repository feature merupakan fitur-fitur yang dapat digunakan untuk melakukan fungsi dari pengaturan konfigurasi software. Berikut adalah beberapa feature dari SCM repository:
+
+a. Versioning
+Pada feature versioning, dilakukan penyimpanan semua versi software untuk memungkinkan pengaturan secara efektif untuk produk yang akan direlease dan untuk mengijinkan developer untuk kembali ke versi sebelumnya.
+b. Dependency tracking and change management
+Repository mengatur hubungan yang sangat beragam antar data elemet yang disimpan di dalamnya.
+c. Requirement tracing
+Menyediakan kemampuan untuk melakukan pelacakan semua perancangan dan konstruksi komponen yang dihasilkan dari proses spesifikasi requirement.
+d. Configuration management
+Menjaga track dari sekumpulan konfigurasi yang merepresentasikan milestone dari proyek tertentu.
+e. Audit trails
+Menetapkan informasi tambahan mengenai kapan, bagaimana dan oleh siapa perubahan dibuat.
+
 e. Jakarta Smart City (JSC) bekerjasama dengan perusahaan lain seperti Tokopedia, Alterra, Zomato, Gofood, dan lain-lain. Tim yang terdapat pada JSC adalah tim dengan fokus pada teknologi, tim pelaksana teknis, dan tim yang memonitoring pelaksaan. Untuk memastikan perangkat lunak akan digunakan oleh masyarakat adalah dengan memberikan suatu reward pada pengguna masyarakat, sedangkan untuk pemerintah diperlukan pemimpin yang tegas untuk memastikan tercapainya tujuan smart city. 
