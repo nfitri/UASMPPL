@@ -8,8 +8,56 @@ a. Manajemen risiko proyek adalah suatu upaya untuk mengantisipasi risiko pada p
 
 b. Cara mengembangakan tim proyek perangkat lunak harus memmperhatikan hal-hal seperti ukuran PL hasil proyek, tingkat kesulitan masalah, tingkat modularisasi masalah, kualitas PL yg diharapkan, lama waktu proyek, kecocikan personal, tinggkat keketetatn tenggat waktu, intensitas komunikasi yang dibutuhkan. Satu tahap yang lebih penting adalah memilih pemimpin tim atau manajer proyek yang tepat. Mengelola Tim mungkin cukup menantang bahkan untuk profesional berpengalaman jika mereka tidak memiliki keterampilan manajer. Manajer proyek yang sempurna adalah orang yang dapat mengubah individu menjadi pemain tim dan tahu bagaimana memotivasi. Hanya tim yang baik yang dapat mencapai hasil dan tujuan  proyek secara maksiamal. Dalam proyek pengembangan perangkat lunak diperlukan manajer proyek, analis atau perancang, pemrogram, dan penguji.
 
-c.
+c. Manajemen kualitas perangkat lunak ( SQM ) adalah proses manajemen yang bertujuan untuk mengembangkan dan mengelola kualitas perangkat lunak sedemikian rupa untuk memastikan produk memenuhi standar kualitas yang diharapkan oleh pelanggan sekaligus memenuhi semua persyaratan peraturan dan pengembang yang diperlukan, jika ada. Manajer kualitas perangkat lunak memerlukan perangkat lunak untuk diuji sebelum dirilis ke pasar, dan mereka melakukannya dengan menggunakan penilaian kualitas berbasis proses siklus untuk mengungkap dan memperbaiki bug sebelum dirilis. Tugas mereka tidak hanya memastikan perangkat lunak mereka dalam kondisi yang baik bagi konsumen, tetapi juga mendorong budaya kualitas di seluruh perusahaan. 
 
-d. Manajemen konfigurasi proyek perangkat lunak adalah
+Kegiatan manajemen mutu
+Aktivitas manajemen kualitas perangkat lunak umumnya dibagi menjadi tiga komponen inti: jaminan kualitas, perencanaan kualitas, dan kontrol kualitas. Beberapa seperti insinyur perangkat lunak dan penulis Ian Sommerville tidak menggunakan istilah "kendali mutu" (karena kendali mutu sering dipandang lebih sebagai istilah manufaktur daripada istilah pengembangan perangkat lunak), melainkan, menghubungkan konsep yang terkait dengan konsep jaminan kualitas. Namun, ketiga komponen inti tersebut tetap sama.
+
+Kualitas asuransi
+Artikel utama: Jaminan kualitas perangkat lunak
+Jaminan kualitas perangkat lunak menetapkan serangkaian proses organisasi yang terorganisir dan logis dan memutuskan bahwa standar pengembangan perangkat lunak - berdasarkan praktik terbaik industri - yang harus dipasangkan dengan proses organisasi tersebut, pengembang perangkat lunak memiliki peluang yang lebih baik untuk menghasilkan perangkat lunak berkualitas lebih tinggi. Namun, menghubungkan atribut kualitas seperti "rawatan" dan "keandalan" ke proses lebih sulit dalam pengembangan perangkat lunak karena elemen desain kreatifnya versus proses mekanis manufaktur. Selain itu, "standarisasi proses terkadang dapat menghambat kreativitas, yang mengarah pada perangkat lunak yang lebih buruk daripada kualitas yang lebih baik."
+
+Tahapan ini bisa meliputi:
+
+mendorong standar proses dokumentasi, seperti pembuatan dokumen teknik yang terdefinisi dengan baik menggunakan templat standar
+mentoring bagaimana melakukan proses standar, seperti tinjauan kualitas
+melakukan prosedur pencatatan data pengujian dalam proses
+mengidentifikasi standar, jika ada, yang harus digunakan dalam proses pengembangan perangkat lunak
+Perencanaan kualitas
+Perencanaan kualitas bekerja pada tingkat yang lebih terperinci, berbasis proyek, dengan mendefinisikan atribut kualitas yang akan dikaitkan dengan keluaran proyek dan bagaimana atribut tersebut harus dinilai. Selain itu, standar organisasi yang ada juga dapat ditetapkan ke proyek pada fase ini. Atribut seperti "ketahanan", "aksesibilitas", dan "modularitas" dapat ditetapkan ke proyek pengembangan perangkat lunak. Meskipun ini mungkin merupakan proses integral yang lebih formal, mereka yang menggunakan metode manajemen kualitas yang lebih gesit mungkin kurang menekankan pada struktur perencanaan yang ketat. Rencana mutu juga dapat membahas pasar yang dituju, tanggal rilis kritis, sasaran mutu, risiko yang diharapkan, dan kebijakan manajemen risiko.
+
+Kontrol kualitas
+Tim kendali mutu menguji dan meninjau perangkat lunak pada berbagai tahapannya untuk memastikan proses dan standar jaminan kualitas di tingkat organisasi dan proyek diikuti. (Beberapa orang seperti Sommerville menghubungkan tanggung jawab ini dengan jaminan kualitas daripada menyebutnya sebagai kontrol kualitas.) Pemeriksaan ini secara optimal terpisah dari tim pengembangan untuk memberikan pandangan yang lebih objektif tentang produk yang akan diuji. Namun, manajer proyek di sisi pengembangan juga harus membantu, membantu mempromosikan sebagai bagian dari fase ini sebuah "budaya yang memberikan dukungan tanpa menyalahkan ketika kesalahan ditemukan." Dalam perusahaan pengembangan perangkat lunak yang menerapkan pendekatan kualitas yang lebih gesit, aktivitas ini mungkin kurang formal; Namun, peralihan ke metode tangkas dari struktur manajemen mutu yang lebih formal dapat menimbulkan masalah jika prosedur manajemen tidak diadaptasi dengan tepat. 
+
+Kegiatannya meliputi:
+
+rilis pengujian perangkat lunak, termasuk dokumentasi yang tepat dari proses pengujian
+pemeriksaan perangkat lunak dan dokumentasi terkait untuk ketidaksesuaian dengan standar
+tinjauan tindak lanjut perangkat lunak untuk memastikan setiap perubahan yang diperlukan yang dirinci dalam pengujian sebelumnya ditangani
+penerapan pengukuran perangkat lunak dan metrik untuk penilaian
+Kualitas perangkat lunak dan siklus hidup perangkat lunak
+Pengukuran kualitas perangkat lunak berbeda dengan manufaktur; toleransi tidak berlaku (setidaknya dengan cara yang sama), dan kesimpulan objektif mengenai apakah perangkat lunak memenuhi spesifikasi sulit jika tidak mustahil untuk dicapai. Namun, kualitas perangkat lunak dan status sesuai untuk tujuan masih dapat direalisasikan dengan berbagai cara tergantung pada organisasi dan jenis proyek yang direalisasikan. Ini dilakukan melalui dukungan dari seluruh siklus pengembangan perangkat lunak , yang berarti:
+
+mengumpulkan persyaratan dan menentukan ruang lingkup proyek TI, dengan fokus pada verifikasi jika persyaratan yang ditentukan dapat diuji;
+merancang solusi, berfokus pada perencanaan proses pengujian, misalnya, jenis pengujian apa yang akan dilakukan dan bagaimana pengujian tersebut akan dilakukan dalam konteks lingkungan pengujian dan data pengujian ?;
+menerapkan solusi yang didukung oleh kasus dan skenario pengujian, menjalankannya, dan mendaftarkan cacat, termasuk koordinasi untuk menyelesaikan cacat;
+menerapkan manajemen perubahan, didukung oleh verifikasi tentang bagaimana perubahan yang direncanakan dapat memengaruhi kualitas solusi yang dibuat dan akhirnya mengubah rencana pengujian; dan
+menutup proyek, didukung oleh realisasi pengujian yang difokuskan pada verifikasi kompleks dari kualitas keseluruhan dari solusi yang dibuat
+
+d. Manajemen Konfigurasi Perangkat Lunak atau biasa disebut Software Configuration Management adalah serangkaian aktifitas penelusuran dan pengendalian yang dimulai ketika proyek berjalan sampai tidak dioperasikan lagi. Sebuah aktifitas untuk mengidentifikasi konfigurasi dari sebuah sistem dengan tujuan untuk mengontrol perubahan secara sistematik terhadap konfigurasi, pemeliharaan integritas dan pengulangan dari konfigurasi seluruhnya selama daur hidup sistem.
+Konsep dari manajemen konfigurasi menggunakan semua item untuk di kontrol meskipun ada beberapa perbedaan antara manajemen konfigurasi perangkat keras dan perangkat lunak. Pada bagian ini kita akan menjelaskan sebuah perincian dari konsep-konsep manajemen konfigurasi perangkat lunak, dengan deskripsi yang jelas dari setiap konsep.
+Aktifitas SCM antara lain :
+Mengidentifikasi produk pekerjaan yang cenderung berubah
+Membangun hubungan di antara mereka
+Mendefinisikan mekanisme untuk mengelola versi yang berbeda dari produk kerja
+Mengontrol perubahan
+Audit & melaporkan perubahan yang dibuat
+Baselines adalah sebuah konsep manajemen konfigurasi perangkat lunak yang membantu kita mengontrol perubahan tanpa harus secara serius mengganggu perubahan yang dapat dibenarkan.
+Langkah-langkah perubahan dalam SCM, antara lain :
+Kebutuhan akan perubahan diperbaiki
+Permintaan perubahan dari pemakai
+Pengembang mengevaluasi
+Laporan perubahan dihasilkan
+Otoritas kontrol perubahan membuat keputusan
 
 e. Jakarta Smart City (JSC) bekerjasama dengan perusahaan lain seperti Tokopedia, Alterra, Zomato, Gofood, dan lain-lain. Tim yang terdapat pada JSC adalah tim dengan fokus pada teknologi, tim pelaksana teknis, dan tim yang memonitoring pelaksaan. Untuk memastikan perangkat lunak akan digunakan oleh masyarakat adalah dengan memberikan suatu reward pada pengguna masyarakat, sedangkan untuk pemerintah diperlukan pemimpin yang tegas untuk memastikan tercapainya tujuan smart city. 
