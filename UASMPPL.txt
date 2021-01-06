@@ -1,15 +1,14 @@
 a. Apa itu Manajemen risiko proyek dan jelaskan salah satu metode manajemen risiko proyek yang anda ketahui dan berikan contoh penggunaan metode tersebut.
+
+Manajemen risiko proyek adalah suatu upaya untuk mengantisipasi risiko pada proyek yang dapat memberi dampak pada jadwal proyek atau kualitas dari software yang dibangun serta mengambil tindakan untuk menghindari risiko tersebut. Salah satu metode manajemen risiko adalah metode Risk Breakdown Structure (RBS). RBS membantu mempermudah seluruh pihak yang berkepentingan untuk memahami, mengidentifikasi dan menilai suatu risiko. RBS dapat dianggap sebagai penggambaran yang terorganisir secara hierarki dari risiko proyek yang teridentifikasi yang disusun menurut kategori risiko. RBS juga dapat membantu manajer proyek dan manajer risiko untuk lebih memahami risiko berulang dan konsentrasi risiko yang dapat menyebabkan masalah yang mempengaruhi status proyek. Contoh penggunaan metode RBS pada pengembangan perangkat lunak yaitu level 0 terdapat risiko proyek, level 1 terdapat product engineering, development environment, program constraint.
+
 b. Bagaimana cara pengembangan tim proyek PL dan siapa saja tim proyek PL?
+
+Cara mengembangakan tim proyek perangkat lunak harus memmperhatikan hal-hal seperti ukuran PL hasil proyek, tingkat kesulitan masalah, tingkat modularisasi masalah, kualitas PL yg diharapkan, lama waktu proyek, kecocikan personal, tinggkat keketetatn tenggat waktu, intensitas komunikasi yang dibutuhkan. Satu tahap yang lebih penting adalah memilih pemimpin tim atau manajer proyek yang tepat. Mengelola Tim mungkin cukup menantang bahkan untuk profesional berpengalaman jika mereka tidak memiliki keterampilan manajer. Manajer proyek yang sempurna adalah orang yang dapat mengubah individu menjadi pemain tim dan tahu bagaimana memotivasi. Hanya tim yang baik yang dapat mencapai hasil dan tujuan  proyek secara maksiamal. Dalam proyek pengembangan perangkat lunak diperlukan manajer proyek, analis atau perancang, pemrogram, dan penguji.
+
 c. Apa itu manajemen kualitas perangkat lunak?
-d. Apa itu manajemen konfigurasi proyek perangkat lunak?
-e. Insight dari webinar kuliah lapangan dengan Jakarta Smart City? Aplikasi apa saja yang dikembangkan oleh JSC, tim apa saja yang terdapat pada JSC, Bagaimana cara mereka memastikan PL yang mereka kembangkan akan digunakan oleh masyarakat maupun pemerintah? serta jelaskan insight lainnya yang didapatkan melalui webinar, terkait dengan manajemen proyek maupun SDLC secara luas.
 
-a. Manajemen risiko proyek adalah suatu upaya untuk mengantisipasi risiko pada proyek yang dapat memberi dampak pada jadwal proyek atau kualitas dari software yang dibangun serta mengambil tindakan untuk menghindari risiko tersebut. Salah satu metode manajemen risiko adalah metode Risk Breakdown Structure (RBS). RBS membantu mempermudah seluruh pihak yang berkepentingan untuk memahami, mengidentifikasi dan menilai suatu risiko. RBS dapat dianggap sebagai penggambaran yang terorganisir secara hierarki dari risiko proyek yang teridentifikasi yang disusun menurut kategori risiko. RBS juga dapat membantu manajer proyek dan manajer risiko untuk lebih memahami risiko berulang dan konsentrasi risiko yang dapat menyebabkan masalah yang mempengaruhi status proyek. Contoh penggunaan metode RBS pada pengembangan perangkat lunak yaitu level 0 terdapat risiko proyek, level 1 terdapat product engineering, development environment, program constraint.
-
-b. Cara mengembangakan tim proyek perangkat lunak harus memmperhatikan hal-hal seperti ukuran PL hasil proyek, tingkat kesulitan masalah, tingkat modularisasi masalah, kualitas PL yg diharapkan, lama waktu proyek, kecocikan personal, tinggkat keketetatn tenggat waktu, intensitas komunikasi yang dibutuhkan. Satu tahap yang lebih penting adalah memilih pemimpin tim atau manajer proyek yang tepat. Mengelola Tim mungkin cukup menantang bahkan untuk profesional berpengalaman jika mereka tidak memiliki keterampilan manajer. Manajer proyek yang sempurna adalah orang yang dapat mengubah individu menjadi pemain tim dan tahu bagaimana memotivasi. Hanya tim yang baik yang dapat mencapai hasil dan tujuan  proyek secara maksiamal. Dalam proyek pengembangan perangkat lunak diperlukan manajer proyek, analis atau perancang, pemrogram, dan penguji.
-
-c. Manajemen kualitas perangkat lunak ( SQM ) adalah proses manajemen yang bertujuan untuk mengembangkan dan mengelola kualitas perangkat lunak sedemikian rupa untuk memastikan produk memenuhi standar kualitas yang diharapkan oleh pelanggan sekaligus memenuhi semua persyaratan peraturan dan pengembang yang diperlukan, jika ada. Manajer kualitas perangkat lunak memerlukan perangkat lunak untuk diuji sebelum dirilis ke pasar, dan mereka melakukannya dengan menggunakan penilaian kualitas berbasis proses siklus untuk mengungkap dan memperbaiki bug sebelum dirilis. Tugas mereka tidak hanya memastikan perangkat lunak mereka dalam kondisi yang baik bagi konsumen, tetapi juga mendorong budaya kualitas di seluruh perusahaan. 
-
+Manajemen kualitas perangkat lunak ( SQM ) adalah proses manajemen yang bertujuan untuk mengembangkan dan mengelola kualitas perangkat lunak sedemikian rupa untuk memastikan produk memenuhi standar kualitas yang diharapkan oleh pelanggan sekaligus memenuhi semua persyaratan peraturan dan pengembang yang diperlukan, jika ada. Manajer kualitas perangkat lunak memerlukan perangkat lunak untuk diuji sebelum dirilis ke pasar, dan mereka melakukannya dengan menggunakan penilaian kualitas berbasis proses siklus untuk mengungkap dan memperbaiki bug sebelum dirilis. Tugas mereka tidak hanya memastikan perangkat lunak mereka dalam kondisi yang baik bagi konsumen, tetapi juga mendorong budaya kualitas di seluruh perusahaan. 
 Kegiatan manajemen mutu
 Aktivitas manajemen kualitas perangkat lunak umumnya dibagi menjadi tiga komponen inti: jaminan kualitas, perencanaan kualitas, dan kontrol kualitas. Beberapa seperti insinyur perangkat lunak dan penulis Ian Sommerville tidak menggunakan istilah "kendali mutu" (karena kendali mutu sering dipandang lebih sebagai istilah manufaktur daripada istilah pengembangan perangkat lunak), melainkan, menghubungkan konsep yang terkait dengan konsep jaminan kualitas. Namun, ketiga komponen inti tersebut tetap sama.
 
@@ -44,7 +43,9 @@ menerapkan solusi yang didukung oleh kasus dan skenario pengujian, menjalankanny
 menerapkan manajemen perubahan, didukung oleh verifikasi tentang bagaimana perubahan yang direncanakan dapat memengaruhi kualitas solusi yang dibuat dan akhirnya mengubah rencana pengujian; dan
 menutup proyek, didukung oleh realisasi pengujian yang difokuskan pada verifikasi kompleks dari kualitas keseluruhan dari solusi yang dibuat
 
-d. Manajemen Konfigurasi Perangkat Lunak atau biasa disebut Software Configuration Management adalah serangkaian aktifitas penelusuran dan pengendalian yang dimulai ketika proyek berjalan sampai tidak dioperasikan lagi. Sebuah aktifitas untuk mengidentifikasi konfigurasi dari sebuah sistem dengan tujuan untuk mengontrol perubahan secara sistematik terhadap konfigurasi, pemeliharaan integritas dan pengulangan dari konfigurasi seluruhnya selama daur hidup sistem.
+d. Apa itu manajemen konfigurasi proyek perangkat lunak?
+
+Manajemen Konfigurasi Perangkat Lunak atau biasa disebut Software Configuration Management adalah serangkaian aktifitas penelusuran dan pengendalian yang dimulai ketika proyek berjalan sampai tidak dioperasikan lagi. Sebuah aktifitas untuk mengidentifikasi konfigurasi dari sebuah sistem dengan tujuan untuk mengontrol perubahan secara sistematik terhadap konfigurasi, pemeliharaan integritas dan pengulangan dari konfigurasi seluruhnya selama daur hidup sistem.
 Konsep dari manajemen konfigurasi menggunakan semua item untuk di kontrol meskipun ada beberapa perbedaan antara manajemen konfigurasi perangkat keras dan perangkat lunak. Pada bagian ini kita akan menjelaskan sebuah perincian dari konsep-konsep manajemen konfigurasi perangkat lunak, dengan deskripsi yang jelas dari setiap konsep.
 Aktifitas SCM antara lain :
 Mengidentifikasi produk pekerjaan yang cenderung berubah
@@ -94,16 +95,36 @@ Integrasi data (data integration)
 Penegakan methodologi (methodology enforcement)
 Standardisasi dokumen (document standardization)
 Repository feature merupakan fitur-fitur yang dapat digunakan untuk melakukan fungsi dari pengaturan konfigurasi software. Berikut adalah beberapa feature dari SCM repository:
+- Versioning: Pada feature versioning, dilakukan penyimpanan semua versi software untuk memungkinkan pengaturan secara efektif untuk produk yang akan direlease dan untuk mengijinkan developer untuk kembali ke versi sebelumnya.
+- Dependency tracking and change management: Repository mengatur hubungan yang sangat beragam antar data elemet yang disimpan di dalamnya.
+- Requirement tracing: Menyediakan kemampuan untuk melakukan pelacakan semua perancangan dan konstruksi komponen yang dihasilkan dari proses spesifikasi requirement.
+- Configuration management: Menjaga track dari sekumpulan konfigurasi yang merepresentasikan milestone dari proyek tertentu.
+- Audit trails: Menetapkan informasi tambahan mengenai kapan, bagaimana dan oleh siapa perubahan dibuat.
 
-a. Versioning
-Pada feature versioning, dilakukan penyimpanan semua versi software untuk memungkinkan pengaturan secara efektif untuk produk yang akan direlease dan untuk mengijinkan developer untuk kembali ke versi sebelumnya.
-b. Dependency tracking and change management
-Repository mengatur hubungan yang sangat beragam antar data elemet yang disimpan di dalamnya.
-c. Requirement tracing
-Menyediakan kemampuan untuk melakukan pelacakan semua perancangan dan konstruksi komponen yang dihasilkan dari proses spesifikasi requirement.
-d. Configuration management
-Menjaga track dari sekumpulan konfigurasi yang merepresentasikan milestone dari proyek tertentu.
-e. Audit trails
-Menetapkan informasi tambahan mengenai kapan, bagaimana dan oleh siapa perubahan dibuat.
+e. Insight dari webinar kuliah lapangan dengan Jakarta Smart City? Aplikasi apa saja yang dikembangkan oleh JSC, tim apa saja yang terdapat pada JSC, Bagaimana cara mereka memastikan PL yang mereka kembangkan akan digunakan oleh masyarakat maupun pemerintah? serta jelaskan insight lainnya yang didapatkan melalui webinar, terkait dengan manajemen proyek maupun SDLC secara luas.
 
-e. Jakarta Smart City (JSC) bekerjasama dengan perusahaan lain seperti Tokopedia, Alterra, Zomato, Gofood, dan lain-lain. Tim yang terdapat pada JSC adalah tim dengan fokus pada teknologi, tim pelaksana teknis, dan tim yang memonitoring pelaksaan. Untuk memastikan perangkat lunak akan digunakan oleh masyarakat adalah dengan memberikan suatu reward pada pengguna masyarakat, sedangkan untuk pemerintah diperlukan pemimpin yang tegas untuk memastikan tercapainya tujuan smart city. 
+Jakarta Smart City (JSC) bekerjasama dengan perusahaan lain seperti Tokopedia, Alterra, Zomato, Gofood, dan lain-lain. Tim yang terdapat pada JSC adalah tim dengan fokus pada teknologi, tim pelaksana teknis, dan tim yang memonitoring pelaksaan. Untuk memastikan perangkat lunak akan digunakan oleh masyarakat adalah dengan memberikan suatu reward pada pengguna masyarakat, sedangkan untuk pemerintah diperlukan pemimpin yang tegas untuk memastikan tercapainya tujuan smart city. 
+Qlue (aplikasi dr pihak ketiga hanya untuk melapor), Jaki ; kominfo dan JSC(lapor, survey, jaksiaga-nomor penting, jakpantau), -> geo-taggging
+Aplikasi awal yang dibuat oleh JSC adalah Qlue dengan kerjasama dari pihak ketiga. Aplikasi ini hanya dapat melaporkan pengaduan. Lalu JSC mengembangkan aplikasi lain yaitu Jaki yang dibuat bersama Kominfo yang terintegrasi untuk melapor, survey, informasi harga, dll
+
+Tim pada JSC:
+Tim dengan fokus pada teknologi
+Tim komunikasi
+Tim pelaksana teknis
+Tim monitoring
+Biro pemerintahan
+
+terdapat pula integrasi cctv, harga tanah dan bahan pangan
+untuk tanda warna yang diguanakan pada pelaporan yaitu warna hijau berarti laporan telah selesai, kuning proses, merah belum di apa-apakan
+jika sudah ditindaklanjuti maka harus melampirkan foto
+cara menghindari laporan palsu -> sebelum ditindak lanjuti harus dipilah oleh kelurahan, dilihat dr foto, deskripsi atau lokasi, CRM (Cepat Respon Masyarakat)
+Batas wakttu sesuai kategori.
+laporan pada aplikasi bisa di private atau umum
+JSC dimilai dari tahun 2016 
+sebelum ke masyarakat perbaiki bagian dalam dulu (dinas-dinas), diberikan tawaran menarik sampai tiket gratis ke bali, tim komunikasi, media sosial, 
+progresnya cepat dan baik berbeda dengan daerah sini, pemanfaatannya masih minim. ada biro pemerintahan, integrasi dinas sulit, ini program gubernur jd otomatis harus jalan. ada punishment 
+Sehingga dapat disimpulkan bahwa JSC terus melakukan perbaikan dalam mewujudkan tujuan yang ingin dicapai sehingga dari tahun 2016 sampai sekarang dinas-dinas terkait sudah tergabung dalam JSC. Manajemen Proyek yang dilakukan dapat diaplikasikan pada pemerintahan karena kerjasama antara pemerintahan, masyarakat, dan pihak ketiga lainnya.
+
+
+
+
